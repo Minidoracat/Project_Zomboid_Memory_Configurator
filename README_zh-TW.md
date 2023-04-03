@@ -28,6 +28,9 @@ windows 7 能不能順利運作我不清楚，留待有 windows 7 的人替我�
 授權：
 歡迎轉載分享，但是請註明出處就可以了。
 
+下載方式:
+請前往 [Releases 頁面](https://github.com/Minidoracat/Project_Zomboid_Memory_Configurator/releases) 並選擇您想要的語言版本進行下載。
+
 使用教學：
 遊戲請先關閉，否則會無法修改檔案。
 1. 直接執行 PZ_Memory_Configurator.bat。

@@ -28,6 +28,10 @@ In these cases, you can open this utility and directly view the memory settings 
 License:
 You are welcome to share and repost, but please credit the source.
 
+Download Instructions:
+Please visit the [Releases](https://github.com/Minidoracat/Project_Zomboid_Memory_Configurator/releases) page and choose the language version you want to download.
+
+
 Instructions:
 Close the game first, otherwise the file cannot be modified.
 1. Run PZ_Memory_Configurator.bat directly.
